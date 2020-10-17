@@ -117,12 +117,12 @@ form {
 
 fieldset select {
   padding: 4px 30px;
-  font-size: 1.5rem;
+  font-size: .8rem;
   border: 2px solid black; 
 }
 
 label[for=promo] {
-  font-size: 25px;
+  font-size: 23px;
   font-family: 'Secular One', sans-serif;
 }
 
