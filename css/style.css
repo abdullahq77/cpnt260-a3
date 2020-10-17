@@ -13,8 +13,8 @@ body {
   background-position: center;
     
   
- /* Position image in the top-right corner of the element. */
-  background-position: top-right;
+ /* Position image in the center of the element. */
+  background-position: center;
 }  
  
 /* Resets and Side Code */
